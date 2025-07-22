@@ -1,0 +1,1 @@
+import{c as s,w as t,i as o,o as a,a as c,b as e}from"./index-CFIVhlSx.js";const n=((s,t)=>{const o=s.__vccOpts||s;for(const[a,c]of t)o[a]=c;return o})({},[["render",function(n,r){const d=e,f=o;return a(),s(f,{class:"content"},{default:t((()=>[c(d,{class:"logo",src:"/assets/1-DWikhcfS.jpg",mode:"widthFix"})])),_:1})}],["__scopeId","data-v-95ee283f"]]);export{n as default};
